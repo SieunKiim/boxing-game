@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python:*)",
+      "Bash(curl:*)",
+      "Bash(open http://localhost:8080)",
+      "Bash(jobs:*)",
+      "Bash(python3:*)",
+      "Bash(tree:*)",
+      "Bash(lsof:*)",
+      "Bash(kill:*)",
+      "Bash(open:*)",
+      "Bash(xargs kill:*)",
+      "Bash(git init:*)",
+      "Bash(git add:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
