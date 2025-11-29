@@ -1,0 +1,9 @@
+{
+  "name": "boxing-indie-game",
+  "version": "1.0.0",
+  "description": "2-player boxing game with split-screen POV",
+  "scripts": {},
+  "keywords": ["game", "boxing", "phaser"],
+  "author": "SieunKiim",
+  "license": "MIT"
+}
